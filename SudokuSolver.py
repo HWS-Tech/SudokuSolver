@@ -1,5 +1,4 @@
 import numpy as np
-from SudokuGenerator import SudokuGenerator
 import datetime
 
 class SudokuSolver:
